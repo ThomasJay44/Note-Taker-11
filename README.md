@@ -21,7 +21,7 @@ After clicking on "notes" on the main page, you can add, delete, or read notes.
 
 https://
 
-![screenshot of the note taker application](./Assets/images/Capture.JPG)
+![screenshot of the note taker application](./Assets/images/NoteTakerApp.JPG)
 
 ## Credits
 
